@@ -1,0 +1,20 @@
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\bin\Debug\net6.0\Employee Time Keeping System.exe
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\bin\Debug\net6.0\Employee Time Keeping System.deps.json
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\bin\Debug\net6.0\Employee Time Keeping System.runtimeconfig.json
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\bin\Debug\net6.0\Employee Time Keeping System.dll
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\bin\Debug\net6.0\Employee Time Keeping System.pdb
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\bin\Debug\net6.0\UI_Validation.dll
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\bin\Debug\net6.0\UI_Validation.pdb
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\obj\Debug\net6.0\Employee Time Keeping System.csproj.AssemblyReference.cache
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\obj\Debug\net6.0\Employee Time Keeping System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\obj\Debug\net6.0\Employee Time Keeping System.AssemblyInfoInputs.cache
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\obj\Debug\net6.0\Employee Time Keeping System.AssemblyInfo.cs
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\obj\Debug\net6.0\Employee Time Keeping System.csproj.CoreCompileInputs.cache
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\obj\Debug\net6.0\Employee Time Keeping System.csproj.CopyComplete
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\obj\Debug\net6.0\Employee Time Keeping System.dll
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\obj\Debug\net6.0\refint\Employee Time Keeping System.dll
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\obj\Debug\net6.0\Employee Time Keeping System.pdb
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\obj\Debug\net6.0\Employee Time Keeping System.genruntimeconfig.cache
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\obj\Debug\net6.0\ref\Employee Time Keeping System.dll
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\bin\Debug\net6.0\File_Stream.dll
+C:\Users\annec\source\repos\Employee Time Keeping System\Employee Time Keeping System\bin\Debug\net6.0\File_Stream.pdb

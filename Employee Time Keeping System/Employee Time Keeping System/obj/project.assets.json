@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "File_Stream/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/File_Stream.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/File_Stream.dll": {}
+        }
+      },
+      "UI_Validation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/UI_Validation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UI_Validation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "File_Stream/1.0.0": {
+      "type": "project",
+      "path": "../DataLayer/File_Stream.csproj",
+      "msbuildProject": "../DataLayer/File_Stream.csproj"
+    },
+    "UI_Validation/1.0.0": {
+      "type": "project",
+      "path": "../UI_Validation/UI_Validation.csproj",
+      "msbuildProject": "../UI_Validation/UI_Validation.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "File_Stream >= 1.0.0",
+      "UI_Validation >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\annec\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\annec\\source\\repos\\Employee Time Keeping System\\Employee Time Keeping System\\Employee Time Keeping System.csproj",
+      "projectName": "Employee Time Keeping System",
+      "projectPath": "C:\\Users\\annec\\source\\repos\\Employee Time Keeping System\\Employee Time Keeping System\\Employee Time Keeping System.csproj",
+      "packagesPath": "C:\\Users\\annec\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\annec\\source\\repos\\Employee Time Keeping System\\Employee Time Keeping System\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\annec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\annec\\source\\repos\\Employee Time Keeping System\\DataLayer\\File_Stream.csproj": {
+              "projectPath": "C:\\Users\\annec\\source\\repos\\Employee Time Keeping System\\DataLayer\\File_Stream.csproj"
+            },
+            "C:\\Users\\annec\\source\\repos\\Employee Time Keeping System\\UI_Validation\\UI_Validation.csproj": {
+              "projectPath": "C:\\Users\\annec\\source\\repos\\Employee Time Keeping System\\UI_Validation\\UI_Validation.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
